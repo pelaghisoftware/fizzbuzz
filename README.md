@@ -25,8 +25,9 @@
     - Use dependency injection through the constructors instead of field injection. This allows your code to require less changes if you want to move away from Spring.
 
 ## Built With
-1. [OpenJDK 17](https://jdk.java.net/java-se-ri/17)
+1. [Amazon Correto 20](https://docs.aws.amazon.com/corretto/latest/corretto-20-ug/downloads-list.html)
 2. [SpringBoot](https://spring.io/projects/spring-boot)
+3. [Gradle](https://docs.gradle.org/8.1.1/userguide/userguide.html?_gl=1*1dsoha7*_ga*NTYxNDExNzcwLjE2ODczNzA5Nzc.*_ga_7W7NC6YNPT*MTY4NzM3MDk3Ni4xLjAuMTY4NzM3MDk3Ni42MC4wLjA.)
 
 ## Features
 
