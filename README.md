@@ -9,8 +9,12 @@
 <!-- [Acknowledgements](#acknowledgements) -->
 
 ## Overview
-1. Add link to the live demo.
-   - To use: [http://site:8080]
+1. [Live demo](https://fizzbuzz.pelaghisoftware.com)
+   - To use:
+     - git clone https://github.com/pelaghisoftware/fizzbuzz.git
+     - cd fizzbuzz
+     - docker build . -t fizzbuzz
+     - docker run -d -p 8080:8080 --restart always fizzbuzz
 2. Used Springboot to create a simple Rest API while exploring the use of the Chain of Responsibility Pattern.
 3. In this project, I improved on the following.
     - Modern Spring Boot annotations, patterns, and testing.
